@@ -1,5 +1,5 @@
 ### Chapter Information
-OWASP Islamabad Chapter is established in the capital city of Pakistan and focuses on spreading awareness about secure coding standards. 
+OWASP Islamabad Chapter 
 
 ### Follow us on Social Links
 * [Linkedin](https://www.linkedin.com/company/owaspislamabad)
