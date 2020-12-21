@@ -11,7 +11,6 @@ auto-migrated: 1
 
 ---
 
-Test
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
