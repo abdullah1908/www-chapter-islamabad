@@ -2,5 +2,5 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Linkedin](https://www.linkedin.com/company/owaspislamabad)
+* [Twitter](https://twitter.com/owaspislamabad)
