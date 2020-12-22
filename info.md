@@ -1,6 +1,3 @@
-### Chapter Information
-OWASP Islamabad Chapter 
-
 ### Register Member Information
 * [Submit](https://docs.google.com/forms/d/1Dt5Ktm-bYpUOY5rd5hXYN77RC7fLYAVkm6w6E-RXc-4/)
 
