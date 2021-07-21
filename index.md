@@ -4,7 +4,7 @@ title: OWASP Islamabad
 tags: example-tag
 level: 0
 region: Asia
-auto-migrated: 1
+
 ---
 
 
