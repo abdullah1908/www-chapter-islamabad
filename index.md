@@ -20,7 +20,8 @@ If you are dealing with developing, assessing, challenging the code to address t
 
 ## Chapter News
 
-Visit this page back for an update on schedule soon.
+Visit this page back for an update or our social media pages to be updated on our schedule.
+
 
 ### Meetings/Sessions
 
