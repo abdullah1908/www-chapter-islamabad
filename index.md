@@ -21,3 +21,10 @@ If you are dealing with developing, assessing, challenging the code to address t
 ## Chapter News
 
 Visit this page back for an update on schedule soon.
+
+### Meetings/Sessions
+
+| Title | Meetup URL | Date |
+| --- | --- | --- |
+| Demystifying Web Application Security with Attack Surface Visibility | <https://www.linkedin.com/events/demystifyingwebapplicationsecur6826138865904975872/> | 9th August, 2021 (2:00 PM PST) |
+
